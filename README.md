@@ -118,7 +118,7 @@ OUTPUT:
 ![alt text](<Screenshot 2025-03-11 141529.png>)
 
 ## RESULT
-    Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
+Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
 
   
 
